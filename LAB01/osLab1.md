@@ -16,9 +16,12 @@ task 4 and 5 :
 
 [users.log](https://github.com/kashmalahashmi/OsLabSpr23/files/10681727/users.log)
 
-[userlogin.log](https://github.com/kashmalahashmi/OsLabSpr23/files/10681738/userlogin.log)
+[userlogin.log](https://github.com/kashmalahashmi/OsLabSpr23/files/10682063/userlogin.log)
 
-![userlogin](https://user-images.githubusercontent.com/123877043/217438038-2d1a876d-3a4e-42ef-8f23-6c8108c870bb.png)
+
+![passwd](https://user-images.githubusercontent.com/123877043/217443723-5c2509d6-0f30-4da8-bcbf-c1ca67e999be.png)
+
+
 
 
 task 6:
