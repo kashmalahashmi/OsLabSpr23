@@ -38,20 +38,18 @@ for i in {1..5}; do
 
 ![t2](https://user-images.githubusercontent.com/123877043/220108945-1222c80b-0986-4c8e-be13-cf6602abb7cb.png)
  
- task 03:
+ task 03: # Find all the test.txt files and merge their contents into one file
  [merged.txt](https://github.com/kashmalahashmi/OsLabSpr23/files/10784380/merged.txt)
  
  #!/bin/bash
-# Find all the test.txt files and merge their contents into one file
 find . -type f -name test.txt -exec cat {} + >> merged.txt
 
 ![t3](https://user-images.githubusercontent.com/123877043/220109749-1ffa622d-97f6-4c6f-a983-22166abbeaa4.png)
 
 
- task 04;
+ task 04: # Find all the text files and write their names to a file
  
 #!/bin/bash
-# Find all the text files and write their names to a file
 find ./test* -type f -name "*.txt" -print > fileNames.txt
 
 [fileNames.txt](https://github.com/kashmalahashmi/OsLabSpr23/files/10784396/fileNames.txt)
@@ -59,10 +57,9 @@ find ./test* -type f -name "*.txt" -print > fileNames.txt
 
 ![t4](https://user-images.githubusercontent.com/123877043/220110482-ee8bb7b2-3a56-4a17-9c7a-48f9d0e4cf68.png)
 
-task 05:
+task 05: # Remove all the text files in the subfolders of the test directories
 
 #!/bin/bash
-# Remove all the text files in the subfolders of the test directories
 find ./test* -type f -name "*.txt" -delete
 
 
