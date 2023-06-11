@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
-
 #define MAX_SIZE 100000
-
 void merge(int arr[], int left[], int right[], int left_size, int right_size) {
     int i, j, k;
     i = j = k = 0;
