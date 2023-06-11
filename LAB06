@@ -39,6 +39,5 @@ int main() {
         perror("shmdt");
         exit(1);
     }
-
-    return 0;
+return 0;
 }
