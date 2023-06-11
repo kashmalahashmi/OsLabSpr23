@@ -2,8 +2,11 @@ Installing squid
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/b6e42297-c8b5-4679-998c-28c5d494432b)
 
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/fd52fa25-390a-4c9a-a072-0672c5e7461e)
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/f56435c3-cbe7-48bb-8d95-e5690aba450b)
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/d7f998d5-622e-483a-a720-6126646621cf)
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/3efcac92-ade5-4e80-be13-827d7ad19cdf)
 
 Listing services
@@ -25,6 +28,7 @@ Setting up ufw
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/fe5882a1-e0f0-4294-bf0c-2ec199966701)
 
 ufw allowing http and https only
+
 nftables
 
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/303dea65-d12a-4415-8429-f4ee291612fe)
@@ -36,12 +40,17 @@ Listing nft ruleset
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/5d055586-ac1a-42d1-845f-5c44c51491cc)
 
 Implementing strong password practices
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/cc6baff2-4793-4b06-a583-fecffd05f465)
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/0651b44d-b856-4731-8df2-3464c45b9de7)
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/5631cbb9-67b4-48f9-9dbf-39a69114b4dd)
 
 Changing file ownership and permissions
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/06604626-8089-4182-8c8b-e3b84c224a2b)
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/58f2349b-6c59-49f3-8841-a69ee7186a37)
 
 Adding a low privilege user
@@ -49,6 +58,7 @@ Adding a low privilege user
 
 Adding the user to the sudoers list
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/767828f6-e8f2-4be6-8441-be97eac5f9ab)
+
 ![image](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/977eafc1-22ad-4e23-9431-b43995830e15)
 
 adding to sudo visudo
