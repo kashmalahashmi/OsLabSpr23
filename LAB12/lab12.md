@@ -5,8 +5,7 @@
 void merge(int arr[], int left[], int right[], int left_size, int right_size) {
     int i, j, k;
     i = j = k = 0;
-
-    while (i < left_size && j < right_size) {
+    while(i < left_size && j < right_size) {
         if (left[i] <= right[j]) {
             arr[k] = left[i];
             i++;
