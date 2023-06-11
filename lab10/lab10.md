@@ -14,7 +14,6 @@ Executing the Raspberry pi OS on QEMU
 
 Mounting the image in Ubuntu
 
-
 ![RS4](https://github.com/kashmalahashmi/OsLabSpr23/assets/123877043/4ac4ca02-6d26-458b-8c94-27281df6c78b)
 
 
